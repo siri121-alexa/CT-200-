@@ -214,6 +214,3 @@ Safety Section
 
 ---
 
-## 👨‍💻 Author
-
-Developed as a backend assignment using **Python** and **FastAPI**.
